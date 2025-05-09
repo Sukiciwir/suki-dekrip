@@ -28,7 +28,7 @@ Kamu bisa langsung mencoba aplikasi ini di sini: [Suki Decoder on Streamlit](htt
 1. Clone repository ini:
 
    ```bash
-   git clone <repo-url>
+   git clone Sukiciwir/suki-dekrip
    cd suki-decoder
    ```
 2. Install dependency yang diperlukan:
