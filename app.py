@@ -667,6 +667,6 @@ with st.expander("📜 Riwayat Operasi"):
 # Footer
 st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown(
-    "<p style='text-align:center; color:#00bfff;'>Made with 💙 by <strong>Suki</strong> | Powered by Streamlit | *There are still many bugs, you can report on my insta</p>",
+    "<p style='text-align:center; color:#00bfff;'>Made with sigma by <strong>Suki</strong> | Powered by Streamlit | *There are still many bugs, you can report on my insta</p>",
     unsafe_allow_html=True,
 )
