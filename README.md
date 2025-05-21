@@ -4,17 +4,9 @@ Suki Decoder adalah sebuah tools interaktif yang dirancang untuk membantu penggu
 
 ## 🚀 Fitur Utama
 
-* Base64 Decode
-* Vigenère Decode
-* Caesar Decode
-* ROT13 Decode
-* Reverse Decode
-* Atbash Decode
-* Whitespace Decode
-* ASCII Decode
-* Morse Decode
-* XOR Decode
+* Cipher umum 
 * Magic Decode
+* Cipher detector
 * History hasil dekripsi (selama halaman tidak di-refresh)
 * Upload file cipher.txt untuk didekripsi
 * Download hasil dekripsi
@@ -39,12 +31,12 @@ Kamu bisa langsung mencoba aplikasi ini di sini: [Suki Decoder on Streamlit](htt
 3. Jalankan aplikasi dengan perintah berikut:
 
    ```bash
-   streamlit run app.py
+   streamlit run Main.py
    ```
 
 ## 📌 Credit
 
-Dikembangkan dengan ❤️ oleh **Rizqi Ramadhan (@ewrzqi)**.
+Dikembangkan dengan sigma oleh **Rizqi Ramadhan (@ewrzqi)**.
 
 ## ⚖️ Lisensi
 
