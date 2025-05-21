@@ -13,7 +13,7 @@ Suki Decoder adalah sebuah tools interaktif yang dirancang untuk membantu penggu
 
 ## 🌐 Demo
 
-Kamu bisa langsung mencoba aplikasi ini di sini: [Suki Decoder on Streamlit](https://sukidekrip.streamlit.app)
+Kamu bisa langsung mencoba aplikasi ini di sini: [Suki Decoder on Streamlit](https://suki-dekrip.streamlit.app)
 
 ## 🔧 Instalasi dan Penggunaan
 
